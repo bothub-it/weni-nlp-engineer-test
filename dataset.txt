@@ -1,0 +1,265 @@
+## intent:pecuaria
+- Agência de Defesa Agropecuaria busca registro produtor agrícola
+- carta aviso declaro vacina aftosa emissao
+- Agência de Defesa Agropecuaria buscar cadastro produzindo agrícola
+- qt custa cartão informa declaracao vacina aftosa expedição
+- quem consegue Agência de Defesa Agropecuária pesquisar produzindo agrícola cadastro
+- Agência de Defesa Agropecuaria consulta agricultor cadastro
+- cartão informe declaracao prevencao aftosa expedição
+- como agendar pecuária
+- qual pessoa emite Agência de Defesa Agropecuaria busca cadastro produtor agrario
+- Agência de Defesa Agropecuaria consultar cadastro produzindo agrícola
+- pesquisa historico expedição gta
+- oque é necessário declaro previnir aftosa emissão cartão avisar
+- encerramento da guia de transito animal
+- custa expedição cartao informa declaracao vacina febre aftosa
+- oq é necessário declaro vacina febre aftosa emitindo cartão avisar
+- registrado Agência de Defesa Agropecuária busca agricutores
+- encerrar o guia de transito animal
+- cadastrado Agência de Defesa Agropecuária pesquisa agricutores
+- cartao aviso declaração prevenção febre aftosa expedição
+- encerrar o gta
+- qq é Agência de Defesa Agropecuaria consulta agricutores cadastrando
+- realização de verificação gta
+- que lugar realizo Agência de Defesa Agropecuária buscar produz agrário Cadastrar
+- adagri cadastro de agropecuarista
+- quanto precisa pagar buscar produtor agrícola cadastrado Agência de Defesa Agropecuaria
+- Consultar Ficha Sanitária Animal
+- Agência de Defesa Agropecuaria consulta registrar produtor rural
+- diz oque é cartao informe declaro prevencao aftosa emissão
+- emitindo cartão informa declaracao previnir aftosa
+- quanto custa emitir carta avisar declaração prevencao febre aftosa
+- cartao avisar declaro prevencao aftosa emissao
+- emitir cartão informativo declaracao prevenção aftosa
+- cadastrado adagri buscar produz agrário
+- cadastrado adagri pesquisar agropecuarista
+- que local fazer adagri consultar produzindo agrário Cadastrar
+- Cadastrar estabelecimentos no Serviço de Inspeção Estadual 
+- qt custa busca ficha sanitaria animal
+- carta-aviso declaro prevenção aftosa emitir
+- onde posso fazer consulta histórico expedição guia de trânsito animal
+- me conta qq é expedição carta informe declaro prevencao aftosa
+- Agência de Defesa Agropecuaria busca registro agropecuarista
+- Agência de Defesa Agropecuária pesquisar produzindo agrario registro
+- como realizo para declaracao previnir febre aftosa emissao cartao avisar
+- pesquisa produz agrario cadastrado Agência de Defesa Agropecuaria
+- adagri pesquisa agricultores Cadastrar
+- declaro prevenção aftosa emitindo cartao informe
+- oque é necessário Agência de Defesa Agropecuária consulta agricultores registro
+- consultar historico gta
+- cartao informativo declaração previnir febre aftosa emissao
+- Agência de Defesa Agropecuaria busca produzindo rural registro
+- diz oq é emitir carta informa declaro prevenção febre aftosa
+- oq é cartao informativo declarar prevenção aftosa emitir
+- Serviço de Inspeção Estadual fazenda solicitação vistoria antecedencia
+- qual o preço cancelamento guia de trânsito animal
+- emissão cartao informe declaração prevenção aftosa
+- quanto preciso pagar cadastrar restaurante sie
+- adagri consultar produz rural Cadastrar
+- carta informa declaracao prevencao febre aftosa emitindo
+- me diz oq é declaro prevenção aftosa emitir cartao aviso
+- quanto dia declaracao previnir aftosa
+- adagri pesquisar produtor agrario registrando
+- qual o valor emissao cartão informativo declaração vacina aftosa
+- Agência de Defesa Agropecuaria consulta Cadastrar produtor campestre
+- venceu tirar guia de trânsito animal
+
+intent:beneficios_e_incentivos
+- que local posso pedido de regime especial agua mineral
+- qq é necessário pedir benefício fiscal regime especial restaurantes de industria
+- solicitar autorizar credito presumido aços planos
+- qual o preço pedir benefícios fiscais sob regime especial de substituicao de tributos
+- qual lugar consigo pedir incentivo fiscal sob regime especial agua
+- incentivos fiscais adiamento de pagamento de impostos sefaz regime especial
+- solicitacao de incentivos fiscais sob regime especial para brita e gesso
+- autorização de credito presumido aço
+- realização de uma renuncia fiscal
+- adio icms
+- Solicitar adiamento do pagamento do ICMS para produtos sujeitos a regime especial
+- Solicitar benefício fiscal 
+- solicitacao de benefício fiscal para produtos sujeitos a regime especial para fios e malhas
+- oque é renúncia pelo fdi
+- benefícios fiscais para produtos sob regime especial pra aviamentos
+- adiamento pagamento de impostos sefaz para produtos sob regime especial
+- Solicitar benefício fiscal – Regime de Substituição Tributária
+- pedir beneficio fiscal sob regime especial tecidos
+- solicitacao de beneficio fiscal para produtos sob regime especial brita e gesso
+- solicitação de adiar pagamento imposto para circulação de mercadoria para produtos sujeitos a regime especial
+- quem consegue solicitar benefício fiscal sob regime especial substituicao de tributos
+- de liberacao de credito presumido chapas de metal
+- Solicitar concessão de crédito presumido 
+- diz qq é renuncia fiscal pelo fdi
+- incentivo
+- me conta oq é solicitar renúncia fundo de desenvolvimento da industria
+- qq é necessário benefício fiscal sob regime especial substituicao de tributos
+- incentivos fiscais para produtos sob regime especial pra tecidos
+- solicitacao de regime especial pra aviamentos
+- me explica qq é incentivo fiscal para produtos sujeitos a regime especial substituicao de tributos
+- o que é preciso pedir renúncia fiscal pelo sistema fdi
+- Solicitar benefício fiscal 
+- solicitar concessão de crédito
+- beneficio fiscal sob regime especial pra comunicacao
+- pedir benefícios fiscais regime especial brita
+- onde faço de benefícios fiscais para produtos sujeitos a regime especial pra agua
+- pedir beneficio fiscal para produtos sob regime especial pra fiações
+- quais as etapas de incentivo_fiscal
+- regime especial para tecidos
+- beneficio para aço
+- carga líquida
+- incentivo fiscal para produtos sob regime especial pra carga líquida
+- solicitacao de para produtos sujeitos a regime especial pra brita
+- qt custa incentivo fiscal regime especial restaurantes de industria
+
+## intent:trabalho
+- trabalhadora servico autonomo entro site solicitacao
+- Emitir Carteira de Trabalho e Previdência Social Digital
+- quero solicitar meu seguro desemprego eu era trabalhadora doméstica
+- acessar plataforma solicitação profissional servicos autonomos
+- custa siguru desempregu não formal
+- sistema solicitação profissional serviços autônomos
+- utilidade do sine
+- sistema Solicitar profissionais serviços autônomos
+- quem solicita entro plataforma pedir trabalhador servicos autonomos
+- vence base curriculos do sine
+- que documento é necessário profissionais serviços autônomos plataforma acesso
+- quanto custa trabalhador servico autonomo acesso plataforma pedir
+- ctps Trabalho Previdência expedir
+- trabalhava de uma forma formal e quero ser segurado
+- expedição ctps trabalho on-line
+- Credenciar trabalhadores para prestação de serviços autônomos
+- oque é necessário entro sistema solicitação trabalhadora serviços autônomos
+- pagamento profissionais serviços autônomos entro site solicitação
+- quanto semana credenciais trabalhador serviços autônomos
+- trabalhadora servicos autonomos entro sistema solicitação
+- to desempregado como faz a validacao de sentenca para o seguro desemprego
+- custa recorrer siguru desempregu
+- cadastrar-se reinserção trabalhador
+- como posso pegar o seguro eu trabalhava de carteira assinada e agora estou desempregado
+- acesso site Solicitar profissional serviços autônomos
+- quero meu seguro desemprego
+- cadastrar realocação de profissional
+- trabalhadora servico autonomo entrar sistema solicitacao
+- qual local consigo emitir carteira para trampar on-line
+- pagamento credenciamento trabalhadoras serviços autônomos
+- como posso recorrer ao meu seguro desemprego
+- Cadastrar-se para recolocação profissional
+- como realizar a validacao de sentença de um seguro desemprego
+- profissionais servico autonomo entrar sistema solicitação
+- quanto custa seguro disimprego Doméstico
+- validar sentença do seguro desemprego
+- quanto semana reinserção trabalhador
+- valor trabalhadores servico autonomo entro plataforma pedir
+- queria meu seguro desemprego mas antes gostaria de saber como faz pra validar a sentença
+- credenciamento de autonomos
+- entro site solicitacao trabalhadores serviços autônomos
+- onde posso fazer trabalhadoras servicos autonomos acesso sistema solicitação
+- como faz a validação de sentença do seguro desemprego
+- emissao Seguro-Desemprego  pra quem trabalha em casa
+- quanto tempo apelar judicialmente Seguro-Desemprego
+- sistema solicitacao trabalhadora servico autonomo
+- qual o valor reinserir trabalhador se cadastrar
+- quanto preciso pagar emissão seguro Desemprego Doméstico
+- trabalhadora servicos autonomos acessar sistema solicitacao
+- estou precisando do meu seguro desemprego onde posso recorrer?
+- ctps Trabalho Previdência online emissão
+- me explica o que é cadastrar-se recolocação profissional
+- trabalhadora serviços autônomos site acesso
+- expedir carteira pra trabalhar on-line
+- tirar ctps Trabalho Previdência digitalizada
+- trabalho
+- me diz o que é ctps trampo online emissao
+- acesso site pedir profissional servico autonomo
+- carteira pra trabalhar online emitir
+- recolocar profissional registrar-se
+- siguru desempregu pra quem trabalha em casa
+- expirar base curriculo do sine
+- plataforma pedir trabalhadores serviços autônomos
+- me explica oq é profissional credencio servico autonomo
+- entrar site pedir trabalhador serviços autônomos
+- reinserção profissional se cadastrar
+- qual pessoa pode emitir entrar sistema solicitacao profissionais servicos autonomos
+- venceu entro plataforma pedir trabalhadores servicos autonomos
+- liberação beneficio pena Seguro-Desemprego 
+- emitir clt
+- direito trabalhista
+- como faço o seguro desemprego doméstico?
+- preciso do meu seguro desemprego
+- diz oq é acesso site solicitação trabalhadora servico autonomo
+- registrar recolocar profissional
+- carteira para trampar digital tirar
+- acesso ao sistema de profissionais automanos
+
+## intent:consultas_certidoes
+- me conta oq é emitindo certidão simples jucec
+- documentação arquivos validacao
+- estou na junta comercial mas n sei se ak escritura livros mercantis
+- emissão certidão simplificada especifica interno teor
+- qm faz caixa Postal entrar eletrônica
+- emissão certidao simplificada jucec
+- validar comprovante guardados junta Comercial estado ceara
+- escritura livro comercial
+- valor emissão certidão simplificado especifica interno jucec
+- correio Postal eletronicas entrar
+- certidões
+- qual o valor emitir certidão simplificado especifica interna junta Comercial
+- qual lugar realizar emitindo certidao simplificada especifica interno teor junta Comercial estado ceara
+- emitir certidões
+- emissao certidao simplificado jucec
+- limite escriturar livros mercantis jucec
+- expedição certidão simplificada especifica teor interno
+- docs arquivos jucec validação
+- doc guardados junta Comercial validação
+- oq é doc salvados jucec liberar
+- Escriturar livros mercantis na Junta Comercial do Estado do Ceará 
+- Acessar Caixa-Postal Eletrônica
+- validação comprovante salvados junta Comercial
+- Validar documentos arquivados na Junta Comercial do Estado do Ceará 
+- como Validar documentos arquivados na Junta Comercial do Estado do Ceará 
+- emissao certidão simplificado especifica interna teor junta Comercial estado ceara
+- qual local faço certidão simples especifica interna junta Comercial estado ceara
+- informações
+- qt preciso pagar procesos atendido jucec busca
+- validacao documentação arquivos
+- qm realiza expedição certidao teor interno jucec
+- conversar com a junta comercial
+- declaracao guardados junta Comercial validação
+- período entro correio eletrônico
+- pagamento emissão certidão simplificado junta Comercial estado ceara
+- verifico docs arquivos junta Comercial estado ceara
+- quero validar meus documentos na jucec
+- pesquisar atendimento procesos junta Comercial
+- validar comprovante guardados jucec
+- validação da junta comercial
+- documentos salvados junta Comercial estado ceara validacao
+- emitir cetidão
+- verificação documentos arquivo junta Comercial estado ceara
+- qual o preço escriturar livros mercantis jucec
+- Acessar Canal Fale Jucec
+- me diz o que é certidão interno teor
+- pagamento escriturar livro mercantis jucec
+- processos andando junta comercial
+- caixinha postal eletrônica
+- caixa postal virtual
+- emitir certidão simplificada jucec
+- onde realizo busca atendimento procesos junta Comercial
+- qq é preciso entrar caixa Postal eletronicas
+- consultas e certidões
+- emitir certidão de inteiro teor jucec
+- qual lugar consigo documentos guardados liberação
+- gostaria de conferir os processos em aberto na junta do comércio
+- tem como escriturar um livro mercantil na junta do comércio
+- pagamento entrar correio Postal eletrônicas
+- emitindo certidão teor interna junta Comercial
+- validar comprovante arquivos jucec
+- procesos atendimento junta Comercial estado ceara
+- consultas informações
+- oq é necessário liberar documentos guardados junta Comercial estado ceara
+- emissao certidao simples especifica teor interno
+- qual o preço expedição certidao especifica jucec
+- como posso ver os processos que estão em andamento na junta do comercio
+- entrar na caixa postal eletronica
+- emissao certidao simplificado especifica teor interna junta Comercial estado ceara
+- qt custa validar declarações arquivos
+- valor da certidão jucec
+- quanto precisa pagar entro fale junta Comercial estado ceara
+- correios eletronicos entrar
