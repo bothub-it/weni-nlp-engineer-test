@@ -1,4 +1,4 @@
-# NLP Engineer Internship Test
+# Machine Learning Engineer Test
 
 ## Objective
 
@@ -42,11 +42,16 @@ The dataset is in the dataset.txt file in the repository, it is in the format:
 ```
 
 ## Instructions
+- Clone this repository to your local machine
+- Create a new github_repository
+- Update your clonned remote url to your new github_repository using 
+```
+git remote set-url origin https://github.com/username/new_github_repository.git
+```
+- Make your repository private
+- Give access to the user "lucasraggi89" and "lucasagra" in your repository
 - Put all the code, logic, hypotheses, etc. organized in the nlp_test.pynb jupyter notebook of the repository (i.e. specific actions you would take based on your analysis) and methodology.
-- Fork this repository
-- Make your fork private
-- Give access to the user "lucasraggi89" and "lucasagra" in your private fork
-- Make all changes in your fork
+
 - Only commits before the deadline will be considered
 - The deadline is in the 23:59 7 days from when you received this test
 
